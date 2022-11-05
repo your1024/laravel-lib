@@ -2,8 +2,6 @@
     "name": "yhy/laravel-lib",
     "description": "laravel lib",
     "type": "library",
-    "require": {
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -16,5 +14,6 @@
             "email": "karl-yang@foxmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require": {}
 }
