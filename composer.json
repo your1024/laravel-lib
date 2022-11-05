@@ -1,0 +1,20 @@
+{
+    "name": "yhy/laravel-lib",
+    "description": "laravel lib",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yhy\\LaravelLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yhy",
+            "email": "karl-yang@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
